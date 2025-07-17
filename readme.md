@@ -20,3 +20,11 @@ Install via Composer
 
 ```bash
 composer require savan-rathod/artisan-compass
+```
+
+## 🧑‍💻 Author
+
+**Savan Rathod**  
+[GitHub Profile](https://github.com/savan4794)  
+Email: savan.rathod@outlook.com
+---
