@@ -27,4 +27,3 @@ composer require savan-rathod/artisan-compass
 **Savan Rathod**  
 [GitHub Profile](https://github.com/savan4794)  
 Email: savan.rathod@outlook.com
----
