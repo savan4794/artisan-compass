@@ -2,19 +2,20 @@
   "name": "savan-rathod/artisan-compass",
   "description": "Web UI to run Laravel Artisan commands",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "SavanRathod\\ArtisanCompass\\": "src/"
     }
   },
   "authors": [
-        {
-            "name": "Savan Rathod",
-            "email": "savan.rathod@outlook.com",
-            "homepage": "https://github.com/savan-rathod",
-            "role": "Artisan Developer"
-        }
-    ],
+    {
+      "name": "Savan Rathod",
+      "email": "savan.rathod@outlook.com",
+      "homepage": "https://github.com/savan-rathod",
+      "role": "Artisan Developer"
+    }
+  ],
   "extra": {
     "laravel": {
       "providers": [
