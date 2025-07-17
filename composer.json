@@ -1,0 +1,18 @@
+{
+  "name": "savan-rathod/artisan-compass",
+  "description": "Web UI to run Laravel Artisan commands",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "SavanRathod\\ArtisanCompass\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "SavanRathod\\ArtisanCompass\\ArtisanCompassServiceProvider"
+      ]
+    }
+  },
+  "require": {}
+}
