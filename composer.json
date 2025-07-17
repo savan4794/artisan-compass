@@ -7,6 +7,14 @@
       "SavanRathod\\ArtisanCompass\\": "src/"
     }
   },
+  "authors": [
+        {
+            "name": "Savan Rathod",
+            "email": "savan.rathod@outlook.com",
+            "homepage": "https://github.com/savan-rathod",
+            "role": "Artisan Developer"
+        }
+    ],
   "extra": {
     "laravel": {
       "providers": [
